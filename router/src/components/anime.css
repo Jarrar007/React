@@ -1,0 +1,23 @@
+img {
+    width: 140px;
+    height: 200px;
+}
+
+
+
+
+.info {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+#video {
+    text-decoration: none;
+    color: white;
+}
+
+.anime {
+
+    color: white;
+    box-shadow: 2px 2px 8px gray;
+}

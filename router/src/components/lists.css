@@ -1,0 +1,27 @@
+/* .lists {
+    display: flex;
+    gap: 80px;
+    margin-left: 10vw;
+    list-style: none;
+    margin-bottom: 3.5vh;
+} */
+
+.lists {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+    column-gap: 80px;
+    list-style: none;
+    row-gap: 3.5vh;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    
+}
+
+a {
+    cursor: pointer;
+}
+
